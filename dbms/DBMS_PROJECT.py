@@ -1,7 +1,7 @@
 
 """ 
 @author.    : AKASH KUMAR
-@institute. : MIT Institute Moradabad india
+@institute. : MIT Institute Moradabad India
 @branch.    : Computer Science & Information Technology
 @work as.   : Software Devlope & Machine Learning Engineer
 @website.   : https://medium.com/@akashsaininasa
