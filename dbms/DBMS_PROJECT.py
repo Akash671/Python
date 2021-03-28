@@ -1,5 +1,13 @@
 
-""" author Akash kumar """ 
+""" 
+@author.    : AKASH KUMAR
+@institute. : MIT Institute Moradabad India
+@branch.    : Computer Science & Engineering
+@work as.   : Software Devlope & Machine Learning Engineer
+@website.   : https://medium.com/@akashsaininasa
+@github.    : https://github.com/Akash671
+@LinkedIn.  : https://www.linkedin.com/in/akash-kumar-52563018a
+""" 
 
 
 
